@@ -16,7 +16,7 @@ I love creating modern, user-friendly web applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
-<h1>### 🌎 Find me online:</h1>
+### 🌎 Find me online: <br>
 <p align="left">
   <a href="https://www.linkedin.com/in/shahanofficial/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,7 +32,4 @@ I love creating modern, user-friendly web applications.
   </a>
 </p>
 
-</p>
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" />
 
