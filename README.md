@@ -32,4 +32,30 @@ I love creating modern, user-friendly web applications.
   </a>
 </p>
 
+<style>
+  .social-badge {
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .social-badge:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahanofficial/" target="_blank">
+    <img class="social-badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/shahan.official/" target="_blank">
+    <img class="social-badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/shahan_official" target="_blank">
+    <img class="social-badge" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/992929259353" target="_blank">
+    <img class="social-badge" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
 
